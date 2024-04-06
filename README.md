@@ -1,2 +1,6 @@
-# Isolated-Shunt-Amplifier
-Open source Precision Isolated Shunt Amplifier x10\x100 Gain
+# PWM Generator
+Open source low cost comparator based pwm generator
+-3 frequency ranges
+-Shut down
+-soft start
+-Push Pull output driver

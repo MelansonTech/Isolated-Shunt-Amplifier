@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MelansonTech Isolated Shunt Amplifier.CSPcbDoc   4/7/2024  11:37:31 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : MelansonTech Isolated Shunt Amplifier-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : MelansonTech Isolated Shunt Amplifier-SlotHoles-Plated.TXT
+EIA File   : MelansonTech Isolated Shunt Amplifier.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          172              509.35 mm (20.05 Inch)
+T2        0.65mm (25.591mil)       Round          4                16.54 mm (0.65 Inch)
+T3        0.75mm (29.528mil)       Slot           3                7287.99 mm (286.93 Inch)
+T4        0.762mm (30mil)          Round          2                5.00 mm (0.20 Inch)
+T5        0.8mm (31.496mil)        Round          8                41.10 mm (1.62 Inch)
+T6        1mm (39.37mil)           Round          4                7.62 mm (0.30 Inch)
+T7        1.27mm (50mil)           Round          2                5.08 mm (0.20 Inch)
+T8        1.5mm (59.055mil)        Round          2                12.20 mm (0.48 Inch)
+T9        3.5mm (137.795mil)       Round          2                40.00 mm (1.57 Inch)
+---------------------------------------------------------------------------
+Totals                                            199              7924.89 mm (312.00 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

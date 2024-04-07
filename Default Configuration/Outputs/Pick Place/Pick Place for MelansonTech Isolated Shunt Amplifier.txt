@@ -1,0 +1,104 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R34        res,_0805,_HD          37.5mm       37.25mm        37.5mm       37.25mm       38.45mm       37.25mm  T        180.00 CR0805-J/-000ELF
+R33        res,_0805,_HD            34mm       31.75mm          34mm       31.75mm       33.05mm       31.75mm  T        360.00 CR0805-J/-000ELF
+C41        CAP,_0805,_HD        18.825mm         6.4mm      18.825mm         6.4mm      19.841mm         6.4mm  T        180.00 C0805X102J1GACAUTO
+C40        Cap,0805            14.7367mm      39.671mm     14.7367mm      39.671mm     14.7367mm      38.721mm  T         90.00 CL21A226MQQNNNE
+C39        Cap,0805            17.1943mm      39.671mm     17.1943mm      39.671mm     17.1943mm      38.721mm  T         90.00 CL21A226MQQNNNE
+C38        Cap,0805            22.1097mm      39.671mm     22.1097mm      39.671mm     22.1097mm      38.721mm  T         90.00 CL21A226MQQNNNE
+C22        Cap,0805             19.652mm      39.671mm      19.652mm      39.671mm      19.652mm      38.721mm  T         90.00 CL21A226MQQNNNE
+U6         SOT89-3                  32mm        19.5mm          32mm        19.5mm        33.5mm       21.05mm  T        180.00 HT7550-1       
+U1         SOT89-3                  37mm        19.5mm          37mm        19.5mm        38.5mm       21.05mm  T        180.00 UA78L12ACPKG3  
+C37        Cap,0805            14.7367mm      35.421mm     14.7367mm      35.421mm     14.7367mm      36.371mm  T        270.00 CL21A226MQQNNNE
+C36        Cap,0805            17.1943mm      35.421mm     17.1943mm      35.421mm     17.1943mm      36.371mm  T        270.00 CL21A226MQQNNNE
+C35        Cap,0805            22.1097mm      35.421mm     22.1097mm      35.421mm     22.1097mm      36.371mm  T        270.00 CL21A226MQQNNNE
+C34        Cap,0805             19.652mm      35.421mm      19.652mm      35.421mm      19.652mm      36.371mm  T        270.00 CL21A226MQQNNNE
+C33        Cap,0805                 37mm      25.641mm          37mm      25.641mm       36.05mm      25.641mm  T        360.00 CL21A226MQQNNNE
+C32        CAP,_0805,_HD            37mm        23.4mm          37mm        23.4mm      35.984mm        23.4mm  T        360.00 08055C104JAT2A 
+C31        Cap,0805               35.5mm        15.5mm        35.5mm        15.5mm       36.45mm        15.5mm  T        180.00 Cap            
+C29        Cap,0805             25.325mm        35.7mm      25.325mm        35.7mm      26.275mm        35.7mm  T        180.00 CL21A226MQQNNNE
+C30        Cap,0805              25.35mm      40.425mm       25.35mm      40.425mm        24.4mm      40.425mm  T        360.00 CL21A226MQQNNNE
+R31        res,_0805,_HD         11.65mm      18.175mm       11.65mm      18.175mm       11.65mm      19.125mm  T        270.00                
+R30        res,_0805,_HD          1.75mm      18.175mm        1.75mm      18.175mm        1.75mm      19.125mm  T        270.00                
+U8         SOT23-5                4.75mm        29.2mm        4.75mm        29.2mm      5.6999mm     30.5002mm  T        360.00 OPA197IDBVT    
+R24        res,_0805,_HD          9.67mm      18.175mm        9.67mm      18.175mm        9.67mm      19.125mm  T        270.00                
+C23        CAP,_0805,_HD          4.85mm        32.6mm        4.85mm        32.6mm       5.866mm        32.6mm  T        180.00 Cap            
+D6         SOT23-3               12.35mm         3.8mm       12.35mm         3.8mm     13.4088mm      2.8424mm  T        270.00 BAT54SLT1G     
+Logo1      Symbol,Open_Source_-_No_Text      -24.25mm         -35mm       18.95mm        21.3mm      -24.25mm         -35mm  T        360.00 Open Source Logo
+R6         res,_0805,_HD          3.73mm      18.175mm        3.73mm      18.175mm        3.73mm      19.125mm  T        270.00                
+R10        res,_0805,_HD          4.85mm        34.8mm        4.85mm        34.8mm         5.8mm        34.8mm  T        180.00 CR0805-JW-471ELF
+C21        CAP,_0805,_HD          5.05mm       25.75mm        5.05mm       25.75mm       4.034mm       25.75mm  T        360.00 08055C104JAT2A 
+C1         CAP,_0805,_HD          4.65mm       3.384mm        4.65mm       3.384mm       5.666mm       3.384mm  T        180.00 08055C104JAT2A 
+C2         CAP,_0805,_HD        -0.675mm      15.275mm      -0.675mm      15.275mm      -0.675mm      14.259mm  T         90.00 08055C104JAT2A 
+C4         CAP,_0805,_HD           1.4mm          40mm         1.4mm          40mm         1.4mm      41.016mm  T        270.00 08055C104JAT2A 
+C5         CAP,_0805,_HD         31.85mm      25.625mm       31.85mm      25.625mm      32.866mm      25.625mm  T        180.00 08055C104JAT2A 
+C6         CAP,_0805,_HD        31.875mm        23.4mm      31.875mm        23.4mm      32.891mm        23.4mm  T        180.00 08055C104JAT2A 
+C7         Cap,0805             28.275mm      21.765mm      28.275mm      21.765mm      28.275mm      20.815mm  T         90.00 Cap            
+C8         Cap,_1206            22.375mm      24.965mm      22.375mm      24.965mm      22.375mm      26.487mm  T        270.00 C3216X7R1E106K160AB
+C9         Cap,0805             25.375mm       28.59mm      25.375mm       28.59mm      24.425mm       28.59mm  T        360.00 Cap            
+C10        Cap,0805             25.375mm      30.995mm      25.375mm      30.995mm      24.425mm      30.995mm  T        360.00 CL21A226MQQNNNE
+C11        Cap,_1206            30.625mm       15.65mm      30.625mm       15.65mm      32.147mm       15.65mm  T        180.00 CL31B475KBHNNNE
+C12        Cap,_1206            31.025mm          12mm      31.025mm          12mm      31.025mm      13.522mm  T        270.00 CL31B475KBHNNNE
+C13        CAP,_0805,_HD         31.35mm         4.6mm       31.35mm         4.6mm       31.35mm       5.616mm  T        270.00 08055C104JAT2A 
+C14        Cap,0805              25.15mm           4mm       25.15mm           4mm       25.15mm        4.95mm  T        270.00 CL21A226MQQNNNE
+C15        Cap,_5mm_Lead_Spaceing,_4mm_dai       27.45mm           8mm       27.45mm           8mm       27.45mm         5.5mm  T         90.00 S102K33Y5PP63K5R
+D1         SOD123                 28.3mm        34.2mm        28.3mm        34.2mm        28.3mm      32.565mm  T         90.00 MBR0560        
+D2         SOD123                 28.3mm      29.225mm        28.3mm      29.225mm        28.3mm       30.86mm  T        270.00 MBR0560        
+D3         SOD123                 11.7mm      43.025mm        11.7mm      43.025mm        11.7mm       41.39mm  T         90.00 MBR0560        
+L1         Ind,_0805            28.275mm      25.265mm      28.275mm      25.265mm      28.275mm      26.065mm  T         90.00 MLZ2012N6R8LT000
+L2         Ind,_0805             29.05mm       12.85mm       29.05mm       12.85mm       29.05mm       12.05mm  T        270.00 MLZ2012N6R8LT000
+Mod1       CONV_PDSE1-S5-S5-S      33.575mm       7.875mm      31.475mm       7.875mm      33.575mm      11.685mm  B        270.00 PDSE1-S5-S5-S  
+Q1         SOT23-3                1.15mm        25.2mm        1.15mm        25.2mm      2.2088mm     24.2424mm  T        270.00 2N7002ET1G     
+U7         SOT23-5              25.475mm      24.965mm      25.475mm      24.965mm     26.4249mm     26.2653mm  T        360.00 AP3012KTR-G1   
+R1         res,_0805,_HD          17.9mm         9.1mm        17.9mm         9.1mm        17.9mm        8.15mm  T         90.00 Vishay CRCW08051K00JNEA
+R2         res,_0805,_HD          5.71mm      18.175mm        5.71mm      18.175mm        5.71mm      19.125mm  T        270.00 RR1220P-8251-D-M
+R3         res,_0805,_HD         12.25mm        23.2mm       12.25mm        23.2mm       12.25mm       24.15mm  T        270.00 Vishay / Dale CRCW080510K0FKTA
+R4         res,_0805,_HD          9.85mm       36.65mm        9.85mm       36.65mm        9.85mm        37.6mm  T        270.00 CRCW0805100RJNEAC
+R5         Res_2512              18.95mm       12.75mm       18.95mm       12.75mm       16.25mm       12.75mm  T        360.00 Res1           
+R7         res,_0805,_HD          1.15mm        34.8mm        1.15mm        34.8mm         2.1mm        34.8mm  T        180.00 CR0805-JW-471ELF
+R8         res,_0805,_HD          7.85mm       36.65mm        7.85mm       36.65mm        7.85mm        37.6mm  T        270.00 CRCW0805100RJNEAC
+R9         res,_0805,_HD          7.69mm      18.175mm        7.69mm      18.175mm        7.69mm      19.125mm  T        270.00 RR1220P-8251-D-M
+R11        res,_0805,_HD          7.85mm        33.5mm        7.85mm        33.5mm        7.85mm       32.55mm  T         90.00 CR0805-JW-471ELF
+R12        res,_0805,_HD            20mm         9.1mm          20mm         9.1mm          20mm        8.15mm  T         90.00 Vishay / Dale CRCW080510K0FKTA
+R13        res,_0805,_HD          5.65mm        21.8mm        5.65mm        21.8mm        5.65mm       22.75mm  T        270.00 Vishay / Dale CRCW080510K0FKTA
+R14        res,_0805,_HD          1.15mm     32.5667mm        1.15mm     32.5667mm         2.1mm     32.5667mm  T        180.00 CR0805-JW-471ELF
+R15        res,_0805,_HD          9.85mm        33.5mm        9.85mm        33.5mm        9.85mm       32.55mm  T         90.00 Vishay / Dale CRCW080510K0FKTA
+R16        res,_0805,_HD          1.15mm        28.1mm        1.15mm        28.1mm         2.1mm        28.1mm  T        180.00 CR0805-JW-471ELF
+R17        res,_0805,_HD        0.4549mm      36.979mm      0.4549mm      36.979mm     -0.4951mm      36.979mm  T        360.00 CRCW0805100KFKEA
+R18        res,_0805,_HD          1.15mm     30.3333mm        1.15mm     30.3333mm         2.1mm     30.3333mm  T        180.00 CR0805-JW-471ELF
+R19        res,_0805,_HD            28mm       46.25mm          28mm       46.25mm       27.05mm       46.25mm  T        360.00 Vishay / Dale CRCW080510K0FKTA
+R21        res,_0805,_HD        22.175mm          21mm      22.175mm          21mm      22.175mm       21.95mm  T        270.00 Vishay / Dale CRCW080510K0FKTA
+R23        res,_0805,_HD         11.75mm     38.3098mm       11.75mm     38.3098mm       11.75mm     37.3598mm  T         90.00 Vishay / Dale CRCW080510K0FKTA
+R25        res,_0805,_HD       24.1749mm          21mm     24.1749mm          21mm     24.1749mm       21.95mm  T        270.00 Vishay CRCW08051K00JNEA
+SW1        SWITCH,SLIDE,.SP3T,_OS103011_-SIDE          19mm       47.75mm        12.9mm       47.75mm          15mm       47.75mm  B        360.00 OS103011MS8QP1 
+U2         SOIC-16_-_Wide        6.575mm      10.325mm       6.575mm      10.325mm        2.13mm       5.625mm  T         90.00 SI8920BC-IS    
+U3         SOT23-5               8.725mm        21.5mm       8.725mm        21.5mm      7.4248mm       22.45mm  T         90.00 OPA197IDBVT    
+U5         SOT23-5               4.625mm          40mm       4.625mm          40mm      3.3248mm       40.95mm  T         90.00 LM7321MF/NOPB  
+J2         TERM_BLOCK_2POS_SIDE_ENTRY_5MM          19mm           4mm       21.54mm           4mm       21.54mm           4mm  B          0.00 TE Connectivity 282836-2
+J1         CINCH_142-0701-801           4mm        45.7mm           4mm        45.7mm           4mm        45.7mm  B        180.00 142-0701-801   
+C16        CAP,_0805,_HD         14.45mm        22.9mm       14.45mm        22.9mm       14.45mm      23.916mm  T        270.00 GRM21A5C2E101JW01D
+C17        CAP,_0805,_HD         9.225mm        24.3mm       9.225mm        24.3mm       8.209mm        24.3mm  T        360.00 GRM21A5C2E101JW01D
+D4         LED,TH,T1,3MM-VERT          22mm        42.6mm          22mm        42.6mm       23.27mm        42.6mm  B        180.00 OVLBB4C7       
+D5         LED,TH,T1,3MM-VERT          15mm        42.7mm          15mm        42.7mm       16.27mm        42.7mm  B        180.00 OVLBB4C7       
+Q2         SOT23-3             36.4016mm     29.2407mm     36.4016mm     29.2407mm     37.4604mm     28.2831mm  T        270.00 2N7002ET1G     
+R27        res,_0805,_HD            28mm       44.25mm          28mm       44.25mm       27.05mm       44.25mm  T        360.00 Vishay / Dale CRCW080510K0FKTA
+C18        CAP,_0805,_HD         4.893mm      37.073mm       4.893mm      37.073mm       3.877mm      37.073mm  T        360.00 C0805X102J1GACAUTO
+C3         Cap,0805             25.375mm        33.4mm      25.375mm        33.4mm      24.425mm        33.4mm  T        360.00 CL21A226MQQNNNE
+C19        Cap,0805             27.525mm          18mm      27.525mm          18mm      26.575mm          18mm  T        360.00 Cap            
+C20        Cap,0805              28.25mm         3.2mm       28.25mm         3.2mm        27.3mm         3.2mm  T        360.00 CL21A226MQQNNNE
+Q4         SOT23-3             32.7266mm     29.1407mm     32.7266mm     29.1407mm     33.7854mm     28.1831mm  T        270.00 2N7002ET1G     
+J3         Conn,_JST,_4_pin,_2mm_spacing_Right_Angle        35.5mm       34.25mm        35.5mm       34.25mm        32.5mm       34.25mm  B        360.00 JST B4B-PH-K-S(LF)(SN)
+C24        CAP,_0805,_HD             8mm        40.2mm           8mm        40.2mm           8mm      39.184mm  T         90.00 08055C104JAT2A 
+C25        CAP,_0805,_HD         15.85mm        31.2mm       15.85mm        31.2mm       15.85mm      30.184mm  T         90.00 08055C104JAT2A 
+C26        CAP,_0805,_HD          18.4mm       23.75mm        18.4mm       23.75mm      17.384mm       23.75mm  T        360.00 08055C104JAT2A 
+R26        res,_0805,_HD          13.1mm          26mm        13.1mm          26mm       14.05mm          26mm  T        180.00 CRCW0805100KFKEA
+R28        Res,SMD,POT,TC33_Series        17.5mm        26.7mm        17.5mm        26.7mm       15.85mm        27.7mm  T        270.00 TC33X-2-101E   
+R29        res,_0805,_HD          13.1mm        28.2mm        13.1mm        28.2mm       12.15mm        28.2mm  T        360.00 CRCW0805100KFKEA
+U9         SOT23-5               18.75mm        31.5mm       18.75mm        31.5mm        17.8mm     30.1998mm  T        180.00 LM7321MF/NOPB  
+C27        CAP,_0805,_HD          8.15mm        29.7mm        8.15mm        29.7mm        8.15mm      30.716mm  T        270.00 08055C104JAT2A 
+R20        res,_0805,_HD          9.15mm        26.4mm        9.15mm        26.4mm         8.2mm        26.4mm  T        360.00 Vishay / Dale CRCW080510K0FKTA
+R22        res,_0805,_HD        -0.825mm      40.075mm      -0.825mm      40.075mm      -0.825mm      39.125mm  T         90.00 CRCW0805100KFKEA
+C28        CAP,_0805,_HD          12.7mm          32mm        12.7mm          32mm        12.7mm      30.984mm  T         90.00 GRM21A5C2E101JW01D
+R32        res,_0805,_HD         10.45mm       29.75mm       10.45mm       29.75mm       10.45mm        28.8mm  T         90.00 Vishay / Dale CRCW080510K0FKTA
+J4         CONNECTOR,BARREL,2.1MM,5.5MM,DC_POWER_JACK       35.35mm       41.25mm          33mm       44.25mm          33mm       38.25mm  B        270.00 PJ-002A        
+

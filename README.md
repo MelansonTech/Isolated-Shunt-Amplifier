@@ -1,6 +1,8 @@
-# PWM Generator
-Open source low cost comparator based pwm generator
--3 frequency ranges
--Shut down
--soft start
--Push Pull output driver
+Precision Isolated Current Shunt Amplifier
+Open source
+Project Objectives
+-x10-750Khz\x10030Khz Gain options
+-Target >1% Accuracy 
+-battery ready
+-low offest
+-low noise
